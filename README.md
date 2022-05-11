@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python,html,css,mySQL,GTK.
 - 💞️ I’m looking to collaborate on things that make our lives easier/better.
 - 📫 How to reach me ...
+- MOTO: "When you can't find it. BUILD IT!"
 
 <!---
 mecj5/mecj5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
